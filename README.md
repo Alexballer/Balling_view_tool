@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 TODO: Write usage instructions here
+```
 
 ## Development
 
