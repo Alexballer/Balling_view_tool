@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-TODO: Write usage instructions here
+BallingViewTool::Renderer.copyright 'Alex Phillips', 'Deez Nutz reserved'
 ```
 
 ## Development
